@@ -1,12 +1,13 @@
 :root {
-  --black: #000;
+  	--black: #000;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  background: var(--black);
+  	margin: 0;
+  	padding: 0;
+  	height: 100vh;
+  	background: var(--black);
+	overflow: hidden;
 }
 
 iframe {

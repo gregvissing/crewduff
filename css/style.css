@@ -9,6 +9,11 @@ body {
   background: var(--black);
 }
 
+iframe {
+	width: 100%;
+	height: 100vh;
+}
+
 /* CREW DUFF LOGO */
 html {
 	box-sizing: border-box;

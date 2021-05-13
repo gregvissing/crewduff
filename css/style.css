@@ -8,3 +8,42 @@ body {
   height: 100vh;
   background: var(--black);
 }
+
+/* CREW DUFF LOGO */
+html {
+	box-sizing: border-box;
+}
+
+svg {
+	overflow: visible;
+}
+
+body,
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background: #000;
+}
+
+.st0,
+.st1,
+.st2 {
+	fill: none;
+	stroke-miterlimit: 10;
+}
+
+.st0 {
+	stroke: #9c26d5;
+	stroke-width: 4.51px;
+}
+.st1 {
+	stroke: #9c26d5;
+	stroke-width: 3.26px;
+}
+.st2 {
+	stroke: #9c26d5;
+	stroke-width: 2.58px;
+}
